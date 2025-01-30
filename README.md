@@ -36,7 +36,7 @@ The cleric archer is the best divine spell caster. He can use two throwing weapo
 
 ![](picture/001rq7mn.jpg)
 
-The swashbuckler fighter is the best warrior. His stealth attack, his traps, his armor class and his thaco better than a warrior will allow him to do the Baldur's Gate adventure without help. His thief skills like his stealth, his lockpicking and his pickpocketing will be very appreciable.
+The [swashbuckler fighter](./fighter-thief/SWASHBUCKLER-WARRIOR.md) is the best warrior. His stealth attack, his traps, his armor class and his thaco better than a warrior will allow him to do the Baldur's Gate adventure without help. His thief skills like his stealth, his lockpicking and his pickpocketing will be very appreciable.
 
 ![](picture/1j65ns22.jpg)
 
