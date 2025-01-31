@@ -76,25 +76,28 @@ A decent casting time, good damage, this spell maybe cool. Nevertheless, need mo
 
 ## Items Baldur's Gate 1
 
-Helmet	 Helm of Balduran	  HELM07	AC -1	SAVES -1	HP +5, THACO +1
-	 Helm of the Noble	  HELM03	AC -1
-	 Gift of Peace		  HELM04		SAVES -1	Resistance Cold/Fire/Electrical +20%
-Armour	 Studded Leather Armor	  LEAT04		       		-2 AC slashing, -1 AC piercing, missile
-Shield	 Large shield +1 	  SHLD06	AC -2			-1 AC vs missile
-	 Sartessa's Vengeance	  SHLD07P	AC -2			God item but unavailable in real game
-	 Tarloc's Contingency	  SHLD08P	AC -2			God item but unavailable in real game
-	 Pellan's shield +2	  SHLD19	AC -3			-1 AC vs missile
-Gauntlets Legacy of the Masters	  BRAC10	   			THACO +1, DAMAGE +2
-Ring	  Honorary Ring of Sune	  RING22
-	  The Guard's Ring +2	  RING07	AC -2	SAVES -2
-	  Batalista's Passport	  RING02				Resistance Fire +40%
-	  The Claw of Kazgaroth	  MISC72	AC -1	+4/-3/-3/-3/-3	-4 AC vs missile, -2 CON, Blur visual
-Amulet	  The One Gift Lost	  AMUL01
-Belt	  Elves' Bane  		  BELT04				-3 AC vs piercing and missile
-Boots	  The Paws of the Cheetah BOOT01
-	  Worn Whispers	  	  BOOT02
-Weapon	  Sling +1    	  	  SLNG02
-	  The Thresher +2	  BLUN39
-	  Morning Star +1	  BLUN07
-Cloak	  Cloak of Balduran	  CLCK05	AC -1	SAVES -1	Resistance Magic +25%
-	  Cloack of Displacement  CLCK03	AC -3	-3/-3/-1/-3/-1	-4 AC vs missile, Blur
+|Position|Item|Opcode|Bonus AC|Bonus Saves|Bonus Resistance|Bonus THACO|Other|In-game|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-
+|Helmet|Helm of Balduran|HELM07|-1|-1||+1|HP +5|:boom:|
+||Helm of the Noble|HELM03|-1||||CHA +1|:boom:|
+||Gift of Peace|HELM04||-1|:boom:|||:boom:|
+|Armour|Studded Leather Armor|LEAT04|:boom:|||||:boom:|
+|Shield|Large shield +1|SHLD06|-2:boom:|||||:boom:|
+||Sartessa's Vengeance|SHLD07P|-2:boom:||||:boom:||
+||Tarloc's Contingency|SHLD08P|-2:boom:||||:boom:||
+||Pellan's shield +2|SHLD19|-3:boom:|||||:boom:|
+|Gauntlet|Legacy of the Masters|BRAC10|||+1|DAM +2|:boom:|
+|Ring|Honorary Ring of Sune|RING22|||||:boom:|:boom:|
+||The Guard's Ring +2|RING07|-2|-2||||:boom:|
+||Batalista's Passport|RING02|||:boom:|||:boom:|
+||The Claw of Kazgaroth|MISC72|-1:boom:|:boom:|||:boom:||:boom:|
+|Amulet|The One Gift Lost|AMUL01|||||:boom:||:boom:|
+|Belt|Elves' Bane|BELT04|:boom:|||||:boom:|
+|Boots|The Paws of the Cheetah|BOOT01|||||:boom:|:boom:|
+||Worn Whispers|BOOT02|||||:boom:|:boom:|
+|Weapon|Sling +1|SLNG02||||+1||:boom:|
+||The Thresher +2|BLUN39||||+2||:boom:|
+||Morning Star +1|BLUN07||||+1||:boom:|
+|Cloak|Cloak of Balduran|CLCK05|-1|-1|M: +25%|||:boom:|
+||Cloack of Displacement|CLCK03|:boom:|:boom:|||Blur|:boom:|
+||State|Blur|SPWI201|-3|-1|||Blurred|:boom:|
