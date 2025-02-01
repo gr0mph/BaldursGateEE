@@ -90,7 +90,7 @@ A decent casting time, good damage, this spell maybe cool. Nevertheless, need mo
 |Ring|Honorary Ring of Sune|RING22|||||:boom:|:boom:|
 ||The Guard's Ring +2|RING07|-2|-2||||:boom:|
 ||Batalista's Passport|RING02|||FIRE+40%|||:boom:|
-||The Claw of Kazgaroth|MISC72|-1 MISSILE-4|:boom:|||:boom:|:boom:|
+||The Claw of Kazgaroth|MISC72|-1 MISSILE-4|DEATH+4 4oTHERS-3|||CON -2|:boom:|
 |Amulet|The One Gift Lost|AMUL01|||||:boom:|:boom:|
 |Belt|Elves' Bane|BELT04|PIERCING-3 MISSILE-3|||||:boom:|
 |Boots|The Paws of the Cheetah|BOOT01|||||:boom:|:boom:|
@@ -99,5 +99,5 @@ A decent casting time, good damage, this spell maybe cool. Nevertheless, need mo
 ||The Thresher +2|BLUN39||||+2||:boom:|
 ||Morning Star +1|BLUN07||||+1||:boom:|
 |Cloak|Cloak of Balduran|CLCK05|-1|-1|MAGIC+25%|||:boom:|
-||Cloack of Displacement|CLCK03|:boom:|:boom:|||Blur|:boom:|
+||Cloack of Displacement|CLCK03|MISSILE-4|DEATH-2 BREATH-2 WAND-2|||Blur|:boom:|
 |State|Blur|SPWI201|-3|-1|||Blurred|:boom:|

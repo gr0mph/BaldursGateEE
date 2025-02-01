@@ -81,4 +81,41 @@ Spell	    -4		Scroll of Shadow door or Improved Invisibility
 	    +4		Malus if state Blind.
 	    
 
+## Items Baldur's Gate 1
+
+|Position|Item|Opcode|Bonus AC|Bonus Saves|Other Bonus|In-game|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-
+|Helmet|Helm of Balduran|HELM07|-1|-1||+1|HP +5|:boom:|
+||Helm of the Noble|HELM03|-1||||CHA +1|:boom:|
+|Armour|Studded Leather Armor|LEAT04|SLASHING-2 PIERCING-1 MISSILE-1||Not magical|TRUE|
+||Shadow Armor +3|LEAT08|SLASHING-2 PIERCING-1 MISSILE-1||Hide in shadow +15%|TRUE|
+|Gauntlet|Legacy of the Masters|BRAC10|||THACO +1 DAMAGE +2|TRUE|
+|Ring|The Guard's Ring +2|RING07|-2|-2||TRUE|
+||Batalista's Passport|RING02|||FIRE+40%|TRUE|
+||The Claw of Kazgaroth|MISC72|-1 MISSILE-4|DEATH+4 4oTHERS-3|CON -2|TRUE|
+|Amulet|The One Gift Lost|AMUL01|||Fireball(Level ?) Max 25 Charges|TRUE|
+|Belt|Elves' Bane|BELT04|PIERCING-3 MISSILE-3|||TRUE|
+|Boots|The Paws of the Cheetah|BOOT01|||Double movement cheetah|TRUE|
+||Worn Whispers|BOOT02|||Move Silently +20% Hide in shadow +15%|TRUE|
+|Weapon|The Dead Shot +2|BOW07|||Longbow THACO +3 DAMAGE +2|TRUE|
+||Throwing Axe +2|AX1H05|||Axe Enchantment +2|TRUE|
+||Dart of Stunning|DART03|||Save vs. spell or be stunned for seven rounds.|TRUE|
+||Dart of Wounding|DART04|||Save vs. Death or 1 poison damage/s for 20s.|TRUE|
+||The Army Scythe +1|XBOW06|||Light Cross Bow APR +1|TRUE|
+||The Shadow's Blade +3|SW1H10|||Enchantment +3 Speed Factor 0|TRUE|
+||Twinkle +3|SW1H15|-2||Enchantment +5 THACO +3 DAMAGE +3|Cond|
+||Icingdeath +3|SW1H14|||Enchantment +3 FIRE +50%|Cond|
+|Cond|Drizzt Do Urden|DRIZZT|||Kill Very Easy with Swashbuckler|TRUE|
+||Rashad's Talon +2|SW1H23|||Enchantment +2|TRUE|
+||The Whistling Sword +2|SW1H09|||Enchantment +2|TRUE|
+||Short Sword +1|SW1H08|||Enchantment +1|TRUE|
+||Viper's Edge +2|SW1P01|||Longsword Enchantment +2 APR +1 Add 50% backstab damage Petrified (on equip and on hit), Poisonned (on hit)||
+|Cloak|Cloak of Balduran|CLCK05|-1|-1|MAGIC+25%|||:boom:|
+||Cloack of Displacement|CLCK03|MISSILE-4|DEATH-2 BREATH-2 WAND-2|||Blur|:boom:|
+|State|Blur|SPWI201|-3|-1|||Blurred|:boom:|
+
+![](../picture/fighter-thief-item-stat-end-bg1.webp)
+
+Viper's Edge shall be an interesting weapon but the necessary immunity constantly to petrify impose Mage class, indeed the best bonus back impose thief. Two class can be choosed that is Fighter/Mage/Thief or Mage/Thief. Add the fact that the THACO of a Mage/Thief is bad, you should use exploit with dual class (to get THACO 0). Finally, Viper's Edge require equally that you are immune to poison, start only in Siege of Dragonspear and BGII. It's however a weapon enchantment +2, so very too bad in comparison of positive effect. 
+
 
