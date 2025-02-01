@@ -85,8 +85,8 @@ Spell	    -4		Scroll of Shadow door or Improved Invisibility
 
 |Position|Item|Opcode|Bonus AC|Bonus Saves|Other Bonus|In-game|
 |:-|:-|:-|:-|:-|:-|:-
-|Helmet|Helm of Balduran|HELM07|-1|-1||+1|HP +5|:boom:|
-||Helm of the Noble|HELM03|-1||||CHA +1|:boom:|
+|Helmet|Helm of Balduran|HELM07|-1|-1|THACO +1 HitPoint +5|TRUE|
+||Helm of the Noble|HELM03|-1||CHA +1|TRUE|
 |Armour|Studded Leather Armor|LEAT04|SLASHING-2 PIERCING-1 MISSILE-1||Not magical|TRUE|
 ||Shadow Armor +3|LEAT08|SLASHING-2 PIERCING-1 MISSILE-1||Hide in shadow +15%|TRUE|
 |Gauntlet|Legacy of the Masters|BRAC10|||THACO +1 DAMAGE +2|TRUE|
@@ -112,10 +112,10 @@ Spell	    -4		Scroll of Shadow door or Improved Invisibility
 ||Viper's Edge +2|SW1P01|||Longsword Enchantment +2 APR +1 Add 50% backstab damage Petrified (on equip and on hit), Poisonned (on hit)||
 |Cloak|Cloak of Balduran|CLCK05|-1|-1|MAGIC+25%|TRUE|
 ||Cloack of Displacement|CLCK03|MISSILE-4|DEATH-2 BREATH-2 WAND-2|Blur|TRUE|
-|State|Blur|SPWI201|-3|-1|Blurred|:boom:|
+|State|Blur|SPWI201|-3|-1|Blurred|TRUE|
 
 ![](../picture/fighter-thief-item-stat-end-bg1.webp)
 
-Viper's Edge shall be an interesting weapon but the necessary immunity constantly to petrify impose Mage class, indeed the best bonus back impose thief. Two class can be choosed that is Fighter/Mage/Thief or Mage/Thief. Add the fact that the THACO of a Mage/Thief is bad, you should use exploit with dual class (to get THACO 0). Finally, Viper's Edge require equally that you are immune to poison, start only in Siege of Dragonspear and BGII. It's however a weapon enchantment +2, so very too bad in comparison of positive effect. 
+Viper's Edge shall be an interesting weapon but the necessary immunity constantly to petrify impose Mage class, indeed the best bonus back impose thief. Two class can be choosed that is Fighter/Mage/Thief or Mage/Thief. Add the fact that the THACO of a Mage/Thief is bad, you should use exploit with dual class (to get THACO 0). Finally, Viper's Edge require equally that you are immune to poison, start only in Siege of Dragonspear and BGII. Has a +2 Enchantment, this weapon, in Baldur's Gate II replace perfectly Belm +2, Kundane +2 or Ninjatō of the Scarlet Brotherhood +3. A thief/mage can get easily 7 APR, 0 THACO, Grand Master Long sword THACO -3 DAMAGE +5 and SPEEDFACTOR -3 (only with few exploits).
 
 
