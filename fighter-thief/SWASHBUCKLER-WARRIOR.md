@@ -84,7 +84,7 @@ Spell	    -4		Scroll of Shadow door or Improved Invisibility
 ## Items Baldur's Gate 1
 
 |Position|Item|Opcode|Bonus AC|Bonus Saves|Other Bonus|In-game|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-
+|:-|:-|:-|:-|:-|:-|:-
 |Helmet|Helm of Balduran|HELM07|-1|-1||+1|HP +5|:boom:|
 ||Helm of the Noble|HELM03|-1||||CHA +1|:boom:|
 |Armour|Studded Leather Armor|LEAT04|SLASHING-2 PIERCING-1 MISSILE-1||Not magical|TRUE|
@@ -110,9 +110,9 @@ Spell	    -4		Scroll of Shadow door or Improved Invisibility
 ||The Whistling Sword +2|SW1H09|||Enchantment +2|TRUE|
 ||Short Sword +1|SW1H08|||Enchantment +1|TRUE|
 ||Viper's Edge +2|SW1P01|||Longsword Enchantment +2 APR +1 Add 50% backstab damage Petrified (on equip and on hit), Poisonned (on hit)||
-|Cloak|Cloak of Balduran|CLCK05|-1|-1|MAGIC+25%|||:boom:|
-||Cloack of Displacement|CLCK03|MISSILE-4|DEATH-2 BREATH-2 WAND-2|||Blur|:boom:|
-|State|Blur|SPWI201|-3|-1|||Blurred|:boom:|
+|Cloak|Cloak of Balduran|CLCK05|-1|-1|MAGIC+25%|TRUE|
+||Cloack of Displacement|CLCK03|MISSILE-4|DEATH-2 BREATH-2 WAND-2|Blur|TRUE|
+|State|Blur|SPWI201|-3|-1|Blurred|:boom:|
 
 ![](../picture/fighter-thief-item-stat-end-bg1.webp)
 
