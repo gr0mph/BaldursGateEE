@@ -126,10 +126,12 @@ As stated, the swashbuckler fighter is an extremely solid fighter and even witho
 |Position|Item|Opcode|Bonus AC|Bonus Saves|Other Bonus|In-game|
 |:-|:-|:-|:-|:-|:-|:-
 |Armour|Dragonscale Armor|BDLEAT05|SLASHING-2 PIERCING-1 MISSILE-1||Not magical POISON +100%|TRUE|
-|Ring|Ring of Purity|BDRING10|-2 vs Evil|-2 vs Evil|Luck +1 Saves -1|TRUE|
+|Ring|Ring of Purity|BDRING10|-2 vs Evil|-2 vs Evil|Luck +1 Saves -1|Cond|
 |Amulet|Archer's Eyes|BDAMUL02|||DEX +1 Critical Hit Chance with ranged weapon +5%|TRUE|
-|Belt|Cloverleaf|BDBELT01|||Luck +1|TRUE|
+|Belt|Cloverleaf|BDBELT01|||Luck +1|Cond|
 |Weapon|Bow of the Banshee +2|BDBOW04|||10% per hit cast Cloack of Fear on wielder|TRUE|
+|Belt|Belt of the Cunning Rogue|BDBELT03|||Open Locks +15 Find Traps +15|TRUE|
+|Cond|Spectacles of Spectacle|BDMISC01|||Detect Illusion +25|TRUE|
 
 Heart of the Mountain seems to be in Baldur's Gate II even If you haven't search this item.
 
