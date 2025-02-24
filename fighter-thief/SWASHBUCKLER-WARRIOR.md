@@ -13,30 +13,25 @@ From this advantage, the swashbuckler fighter has a great thaco, a great ac (eve
 
 ## Choose the weapon
 
+After played Baldur's Gate I,SoD,II Enhanched Edition. For the Fighter/Thief build (that is very very good), the best weapon with 12 stars at the end of WK5, is clearly Scimitar (for is Ninjato of the Scarlet Brotherhood +3), and Crossbow (for is The Army Scythe +1 APR and Firetooth +4, lots Bolts of Biting, Bolts of Lightning and Kuo-Toa Bolts), so choose Scimitar, Single Weapon Style (+1 AC), Crossbow and Two-hand weapon style (+1 Damage).
+
 As lich is immune to spell weapon +0/+1/+2/+3. We need in early Baldur's Gate 2 a weapon that can hit a lich (with the golem, its the only creature that need really fighter to kill it easily). In Baldur's Gate 2 EE, that is few weapon that can hit in the start a lich (finally it is simple to know what weapon must be selected for the fighter thief.
 
-Foebane +3	     +6 damage vs. undead, shapeshifters, demons and devils	-	WK Level 1
-Daystar +2	     +4 vs. evil creatures
-		     Double damage vs. undead
-		     1/day: Sunray						-	City Gates
-Staff of the Magi    Enchantment: +5
-      	     	     Armor Class: +2
-		     Saving Throws +2
-		     Invisibility
-		     Immune to charm
-		     Protection From Evil
-		     Dispel Magic (level 30) on hit
-		     3/day: Fireball-Lightning Bolt
-		     1/day: Spell Trap (30 spell levels	Only usable by Mages		Layenne
-Usuno's Blade +4     10% chance of +2-20 electrical damage (save vs. spell for half)	WK Level 1
-Short Sword of Mask  15% chance per hit that target is entangled for 4 rounds		Sister Garlena
+|Weapon|Special|Location|
+|:-|:-|:-
+|Foebane +3|+6 damage vs. undead, shapeshifters, demons and devils|WK Level 1|
+|Daystar +2|+4 vs. evil creatures, Double damage vs. undead, 1/day: Sunray|City Gates|
+|Staff +4| |Ribald|
+|Staff of the Magi +5|AC -2 SAVES -2 Invisibility Immune to charm Protection From Evil Dispel Magic (level 30) on hit 3/day: Fireball-Lightning Bolt 1/day: Spell Trap|Layenne|
+|Usuno's Blade +4|10% chance of +2-20 electrical damage (save vs. spell for half)|WK Level 1|
+|Short Sword of Mask +4| 15% chance per hit that target is entangled for 4 rounds|Sister Garlena|
 
 Once this list has been done, we notice that there is only three weapon with backstab: Long sword (1/8), Scimitar (1/8), Short sword (1/6), Quaterstaff (1/6) that can hit easily in start of Baldur's Gate a lich. Despite Katana (1/10) can be choosen with Fury Celest a very good weapon, the Fighter thief can not kill in the start of the game the lich.
 
 Elf has one bonus to hit with long sword and short sword.
 Single weapon style add -1/-2 bonus to armor class. 
 
-In Baldur's Gate 1, with a short sword in one hit, you can already reach 100 damage.
+In Baldur's Gate 1, with a short sword in one hit, you can already reach 100 damage. But Scimitar is clearly better, Ninjato can hit Mage with his poison and the more dangerous is clearly the Mage. Indeed, its easy to get Twinkle that gift the best bonus AC (AC -2), its very easy to get Belm +2 (no fighting, just loot a chess without trap). With Twinkle +3, and The Warder's Signet +3, it missed only 4 AC to reach the minimum AC, with White Dragon Scale, it missed only 2 AC.
 
 ## Reach the best Armor class
 
@@ -44,42 +39,70 @@ As said in the wiki of Baldur's Gate, there is three AC. You can reach -20 AC in
 
 With the swashbuclker, it's more easy to reach -20 with his -6 bonus.
 
-Armor	 -10	       Potion of defense
-Necklace -2/-3         Amulet of the master harper
-	 	       Heart of the moountain
-Cloack   -1/-2	       Cloak of the Dark Moon
-	 	       Cloak of the Sewer
-		       Montolio's Cloak
-Gaunlets -0/-1	       Gauntlets of Extraordinary Specialization
-	 	       Gauntlets of Weapon Expertise
-		       Wondrous Gloves
-Helmets  -1	       Helm of Balduran
-	 	       Helm of Glory
-		       Headband of the Devout
-Rings    -2/-2         Ring of Gaxx
-                       Ring of Protection +2 (The Guard's Ring)
-Weapon   -1	       Axe of the Unyielding +3	  (Axe)
-	 	       Defender of Easthaven +3	  (Flail)
-		       Dak'kon's Zerth Blade +2	  (Katana)
-		       Yamato +4       	     	  (Scimitar)
-Spell    -3	       Scroll of Blur (-3)
-Innate ability	       Swashbuckler (-1 to -9)
-      			Greater evasion (-6)
-		       Sorcerer (-5)
-		       Kensei (-2)
+|Position|Item|Opcode|Bonus AC|Other Bonus|
+|:-|:-|:-|:-|:-
+|Armor|Potion of defense||-10||
+||White Dragon Scales|COMPON18||Components|WK3|
+||White Dragon Scale|CHAN20|-12|Cespenar (ToB)|
+|Necklace|Heart of the moountain||-2||
+||Amulet of the master harper (ToB)||-3||
+|Cloak|Cloak of the Shield|CLCK20|0|Type AC Bonus for 1turn|
+||Cloak of the Sewer||-1|Polymorph|
+||Montolio's Cloak||-1|(ToB)|
+||Cloak of the Dark Moon||-2|(ToB)|
+|Bracers|Bracers of Defense|BRAC15|-7|Armor|
+||Gauntlets of Extraordinary Specialization||THACO -1 APR +1/2 DAMAGE +2 (WK5)|
+||Gauntlets of Weapon Expertise||Where ?! Too late... Too bad...|
+||Wondrous Gloves||-1||
+||Helmets|Vhailor's Helm|WA2HELM|-1|Simulacrum|
+||Helm of Balduran||-1|SAVES -1 HP +5|
+||Helm of Brillance|HELM16|0|Sunray Casting Time 0|
+||Headband of the Devout|OHRHELM1|0|Chant (ToB)|
+|Rings|Ring of Gaxx||-2|SAVES -2 RESIST POISON 100% 1HP/3SEC|
+||The Guard's Ring||-2|SAVES -2|
+||The Warder's Signet||-3|SAVES -3|
+|Weapon|Twinkle +3 (Scimitar)||-2|Enchantment +5|
+||Axe of the Unyielding +3||-1||
+||Defender of Easthaven +3 (Flail)||-1|Better for Ranger/Barbarian|
+||Dak'kon's Zerth Blade +2 (Katana)||
+||Yamato +4 (Scimitar)||-1|(ToB) Too late!|
+|Scroll|Blur|SCRL85|-3|SAVES -1 (10 rounds)|
+|Innate ability|Swashbuckler (-1 to -9)||-6|Passive|
+||Greater evasion (-6)||MAX|5 rounds (SAVES -12 SPEED +12)|
+||Evasion (-4)||MAX|3 rounds (SAVES -8)|
+||Kensei||-2|Passive|
 
-With Swashbuclker (-6), you hit 30 bonus in Armor class.
+The Swashbuclker/Fighter can reach easily with General AC and Uncapped General AC, it's pretty easy to reach between -18 to -20. It's more difficult to reach the -28 because you need specific items to buy or active ability. Indeed, with Cloak of the Shield, and in a fightning, you can easily in-grow your global situational AC by 6 for crushing, slashing and piercing AC and reach to -20 AC for projectil.
+Neverthless, the Swashbuckler can reach maximum general AC by one spell with Blur, Evasion and/or Greater Evasion. Greater Evasion is very funny to see! The Swashbuckler/Fighter is a very good build!
+Don't forget that to get Twinkle and/or The Warder's Signet, you must done an act that is not very ethical.
 
-Uncapped bonus AC
-Dexterity		-1/-6
-Single weapon style	-2
+|Uncapped bonus AC|Dexterity|Bonus Ranged THACO|Bonus AC|
+|:-|:-|:-|:-
+||16|-1|-2|
+||17|-2|-3|
+||18||-4|
+||19|-3||
+||20|||
+||21|-4|-5|
+||25|-5|-6|
+||Single Weapon Style|Critical hit chance|Bonus AC|
+||1 (one star)| Critical on 19 or 20|-1|
+||2 (two stars)| " |-2|
 
-Situational AC
-Spell	    -4		Scroll of Shadow door or Improved Invisibility
-	    -2		Protection from Evil
-	    +4		Malus with ranged weapon
-	    +4		Malus if state Blind.
-	    
+Because a Thief, as a very good stat in detxerity between 17 and 19 in BG1 and several times 25 in BG2. Indeed bonus damage and thaco for the Swashbuckler, the Swashbuckler is a very very good Archer. take Crossbow for a build with Fighter, take (Short) Longbow for a build with Mage. 
+
+|Opcode|Situational AC|Missile AC|None-missile AC|Note|
+|:-|:-|:-|:-|:-
+||Studded Leather Armor||PIERCING -1 SLASHING -2|
+||Elves' Bane|-3|PIERCING -3|Early in BG1 and BG1|
+||Cloak of the Shield|MAX -20|-6|50 Charge, 1 turn|
+
+|Situational AC|Bonus AC|Bonus Saves|Advice/Condition|
+|:-|:-|:-|:-
+|Invisibility status|-4|-4|Hide, Shadow door, (Improved) Invisibility|
+|Protection from Evil|-2|-2|Enemy with Evil alignment|
+|Ranged weapon|+4||Malus|
+|Blinded|+4|+4|Blinded is in fact a bonus, with Snare exploit|	    
 
 ## Items Baldur's Gate 1
 
@@ -136,3 +159,10 @@ As stated, the swashbuckler fighter is an extremely solid fighter and even witho
 Heart of the Mountain seems to be in Baldur's Gate II even If you haven't search this item.
 
 ![](../picture/fighter-thief-item-stat-end-sod.webp)
+
+## Items Baldur's Gate 2
+
+With a solid fighter, starting Baldur's Gate II is easy. In the beginning, you need the Ring of Influence that you can find in the circus queston the promenade. When you start Chapter 2, buy Mastery Thieves potion, and start the game with Roger in the Sewer under Temple district. Reach 15 000 gold or more, and buy the Mercykiller ring, steal from Ribald ring of regeneration, steal the Army scithe and Bolt of lightning (4d4 electric damage half saves vs Breath), Sword of flame (useful against Troll). The best range weapon is so Light crossbow (Bolt of biter, there is a lot in BG2), then Shortbow (Bow of explosion) and finally Sling (Sling of Seeking add strength bonus for damage).
+
+
+
