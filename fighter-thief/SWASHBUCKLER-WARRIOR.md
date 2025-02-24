@@ -41,6 +41,7 @@ With the swashbuclker, it's more easy to reach -20 with his -6 bonus.
 
 |General AC|
 |:-
+
 |Position|Item|Opcode|Bonus AC|Other Bonus|
 |:-|:-|:-|:-|:-
 |Armor|Potion of defense||-10||
@@ -80,6 +81,7 @@ Don't forget that to get Twinkle and/or The Warder's Signet, you must done an ac
 
 |Uncapped bonus AC|
 |:-
+
 |Dexterity|Bonus Ranged THACO|Bonus AC|Note|
 |:-|:-|:-|:-
 |16|-1|-2||
@@ -97,6 +99,7 @@ Because a Thief, as a very good stat in detxerity between 17 and 19 in BG1 and s
 
 |Type AC|
 |:-
+
 |Opcode|Situational AC|Missile AC|None-missile AC|Note|
 |:-|:-|:-|:-|:-
 ||Studded Leather Armor||PIERCING -1 SLASHING -2|
