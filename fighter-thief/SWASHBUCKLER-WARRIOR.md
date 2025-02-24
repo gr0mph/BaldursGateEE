@@ -39,6 +39,8 @@ As said in the wiki of Baldur's Gate, there is three AC. You can reach -20 AC in
 
 With the swashbuclker, it's more easy to reach -20 with his -6 bonus.
 
+|General AC|
+|:-
 |Position|Item|Opcode|Bonus AC|Other Bonus|
 |:-|:-|:-|:-|:-
 |Armor|Potion of defense||-10||
@@ -76,21 +78,25 @@ The Swashbuclker/Fighter can reach easily with General AC and Uncapped General A
 Neverthless, the Swashbuckler can reach maximum general AC by one spell with Blur, Evasion and/or Greater Evasion. Greater Evasion is very funny to see! The Swashbuckler/Fighter is a very good build!
 Don't forget that to get Twinkle and/or The Warder's Signet, you must done an act that is not very ethical.
 
-|Uncapped bonus AC|Dexterity|Bonus Ranged THACO|Bonus AC|
+|Uncapped bonus AC|
+|:-
+|Dexterity|Bonus Ranged THACO|Bonus AC|Note|
 |:-|:-|:-|:-
-||16|-1|-2|
-||17|-2|-3|
-||18||-4|
-||19|-3||
-||20|||
-||21|-4|-5|
-||25|-5|-6|
-||Single Weapon Style|Critical hit chance|Bonus AC|
-||1 (one star)| Critical on 19 or 20|-1|
-||2 (two stars)| " |-2|
+|16|-1|-2||
+|17|-2|-3||
+|18||-4||
+|19|-3||Book or Elves|
+|20|||Machine, Book and/or Elves|
+|21|-4|-5|Machine, Book and Elves|
+|25|-5|-6|Potion of Mind Focusing (POTN37)|
+|Single Weapon Style|Critical hit chance|Bonus AC||
+|1 (one star)| Critical on 19 or 20|-1||
+|2 (two stars)| " |-2||
 
 Because a Thief, as a very good stat in detxerity between 17 and 19 in BG1 and several times 25 in BG2. Indeed bonus damage and thaco for the Swashbuckler, the Swashbuckler is a very very good Archer. take Crossbow for a build with Fighter, take (Short) Longbow for a build with Mage. 
 
+|Type AC|
+|:-
 |Opcode|Situational AC|Missile AC|None-missile AC|Note|
 |:-|:-|:-|:-|:-
 ||Studded Leather Armor||PIERCING -1 SLASHING -2|
