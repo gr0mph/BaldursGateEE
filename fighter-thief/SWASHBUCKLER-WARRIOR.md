@@ -48,7 +48,7 @@ With the swashbuclker, it's more easy to reach -20 with his -6 bonus.
 ||White Dragon Scales|COMPON18||Components|WK3|
 ||White Dragon Scale|CHAN20|-12|Cespenar (ToB)|
 |Necklace|Heart of the moountain||-2||
-||Amulet of the master harper (ToB)||-3||
+||Amulet of the master harper||-3|(ToB)|
 |Cloak|Cloak of the Shield|CLCK20|0|Type AC Bonus for 1turn|
 ||Cloak of the Sewer||-1|Polymorph|
 ||Montolio's Cloak||-1|(ToB)|
@@ -65,11 +65,11 @@ With the swashbuclker, it's more easy to reach -20 with his -6 bonus.
 ||The Guard's Ring||-2|SAVES -2|
 ||The Warder's Signet||-3|SAVES -3|
 |Weapon|Twinkle +3 (Scimitar)||-2|Enchantment +5|
-||Axe of the Unyielding +3||-1||
-||Defender of Easthaven +3 (Flail)||-1|Better for Ranger/Barbarian|
-||Dak'kon's Zerth Blade +2 (Katana)||
+||Axe of the Unyielding +3||-1|Flail|
+||Defender of Easthaven +3||-1|Better for Ranger/Barbarian|
+||Dak'kon's Zerth Blade +2||-1|Katana|
 ||Yamato +4 (Scimitar)||-1|(ToB) Too late!|
-|Scroll|Blur|SCRL85|-3|SAVES -1 (10 rounds)|
+|Scroll|Blur|SCRL85|MAX|10 rounds (SAVES -6)|
 |Innate ability|Swashbuckler (-1 to -9)||-6|Passive|
 ||Greater evasion (-6)||MAX|5 rounds (SAVES -12 SPEED +12)|
 ||Evasion (-4)||MAX|3 rounds (SAVES -8)|
@@ -173,5 +173,16 @@ Heart of the Mountain seems to be in Baldur's Gate II even If you haven't search
 
 With a solid fighter, starting Baldur's Gate II is easy. In the beginning, you need the Ring of Influence that you can find in the circus queston the promenade. When you start Chapter 2, buy Mastery Thieves potion, and start the game with Roger in the Sewer under Temple district. Reach 15 000 gold or more, and buy the Mercykiller ring, steal from Ribald ring of regeneration, steal the Army scithe and Bolt of lightning (4d4 electric damage half saves vs Breath), Sword of flame (useful against Troll). The best range weapon is so Light crossbow (Bolt of biter, there is a lot in BG2), then Shortbow (Bow of explosion) and finally Sling (Sling of Seeking add strength bonus for damage).
 
+![](../picture/fighter-thief-item-stat-end-golem-bg2.webp)
+![](../picture/fighter-thief-item-stat-end-bg2.webp)
+![](../picture/fighter-thief-class-stat-end-bg2.webp)
 
 
+## Use Any Item
+
+Use any item is a strong high ability for the thieves, but on the web. It's very difficult why this ability is strong. Indeed Rogue misses an ability like this.
+A special page will be writed to relate the best way to play with this ability.
+
+## Vhailor's Helm
+
+Thief can do a simulacrum with Vhailor's Helm. Also a special page, will be created to speak about synergy with this great spell.
