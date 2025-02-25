@@ -156,6 +156,24 @@ Viper's Edge is an evil easter egg, lose your time with this poo item. The only 
 
 As stated, the swashbuckler fighter is an extremely solid fighter and even without a ranged weapon specialization, he will take out a good number of opponents at range. It is very enjoyable to do the adventure without a strict choice on the ranged weapon. Depending on your ammo, choose the weapon you prefer. However, one ranged weapon that is particularly cool in Siege of Dragonspear is the Banshee Bow which is a longbow. Specializing in a longbow is therefore a good idea. Also, you do not need to reach level 9 weapon mastery in your sneak attack weapon (shortsword, scimitar or longsword) because you will only gain the extra half attack at level 13, except that you need its 2 half attacks to not conflict with the speed oils (80 when Imoen dies). However, in Baldur's Gate 2, shortbows seem to be better than longbows.
 
+|Position|Item|Opcode|Bonus AC|Bonus Saves|Other Bonus|In-game|
+|:-|:-|:-|:-|:-|:-|:-
+|Armour|Dragonscale Armor|BDLEAT05|SLASHING-2 PIERCING-1 MISSILE-1||Not magical POISON +100%|TRUE|
+|Ring|Ring of Purity|BDRING10|-2 vs Evil|-2 vs Evil|Luck +1 Saves -1|Cond|
+|Amulet|Archer's Eyes|BDAMUL02|||DEX +1 Critical Hit Chance with ranged weapon +5%|TRUE|
+|Belt|Cloverleaf|BDBELT01|||Luck +1|Cond|
+|Weapon|Bow of the Banshee +2|BDBOW04|||10% per hit cast Cloack of Fear on wielder|TRUE|
+|Belt|Belt of the Cunning Rogue|BDBELT03|||Open Locks +15 Find Traps +15|TRUE|
+|Cond|Spectacles of Spectacle|BDMISC01|||Detect Illusion +25|TRUE|
+
+Heart of the Mountain is in Baldur's Gate II even If you haven't search this item in Siege of Dragonspear. Its the best Necklace for the Swashbuckler.
+
+![](../picture/fighter-thief-item-stat-end-sod.webp)
+
+## Items Baldur's Gate 2
+
+With a solid fighter, starting Baldur's Gate II is easy. In the beginning, you need the Ring of Influence that you can find in the circus queston the promenade. When you start Chapter 2, buy Mastery Thieves potion, and start the game with Roger in the Sewer under Temple district. Reach 15 000 gold or more, and buy the Mercykiller ring, steal from Ribald ring of regeneration, steal the Army scithe and Bolt of lightning (4d4 electric damage half saves vs Breath), Sword of flame (useful against Troll). The best range weapon is so Light crossbow (Bolt of biter, there is a lot in BG2), then Shortbow (Bow of explosion) and finally Sling (Sling of Seeking add strength bonus for damage).
+
 |Position|Item|Opcode|Bonus AC|Other Bonus|In-game|
 |:-|:-|:-|:-|:-|:-
 |Helmet|Vhailor's Helm|WA2HELM|-1|Simulacrum 1/day|TRUE|
@@ -179,14 +197,6 @@ As stated, the swashbuckler fighter is an extremely solid fighter and even witho
 ||Kuo-Toa Bolt|KUOBOLT||STUN (saves spell negate)|TRUE|
 ||Wand of Lightning|WAND07||CHEESE|TRUE|
 |Compon|White Dragon Scales|COMPON18|||TRUE|
-
-Heart of the Mountain is in Baldur's Gate II even If you haven't search this item in Siege of Dragonspear. Its the best Necklace for the Swashbuckler.
-
-![](../picture/fighter-thief-item-stat-end-sod.webp)
-
-## Items Baldur's Gate 2
-
-With a solid fighter, starting Baldur's Gate II is easy. In the beginning, you need the Ring of Influence that you can find in the circus queston the promenade. When you start Chapter 2, buy Mastery Thieves potion, and start the game with Roger in the Sewer under Temple district. Reach 15 000 gold or more, and buy the Mercykiller ring, steal from Ribald ring of regeneration, steal the Army scithe and Bolt of lightning (4d4 electric damage half saves vs Breath), Sword of flame (useful against Troll). The best range weapon is so Light crossbow (Bolt of biter, there is a lot in BG2), then Shortbow (Bow of explosion) and finally Sling (Sling of Seeking add strength bonus for damage).
 
 ![](../picture/fighter-thief-item-stat-end-bg2.webp)
 ![](../picture/fighter-thief-class-stat-end-bg2.webp)
