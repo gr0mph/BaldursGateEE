@@ -1,3 +1,4 @@
+
 # BaldursGateEE
 
 The swashbuckler fighter is the best fighter in Baldur's Gate 1 & 2. You need to create K_FT_E file, to add kit in multiclass via Near Infinity engine. K is for Kit, FT for fighter thief and E for Elf. If you wish create an another multiclass, check If the multiclass is enable and kit is enable for the specific race via CLSRCREG (all this file is 2DA).
@@ -47,9 +48,9 @@ With the swashbuclker, it's more easy to reach -20 with his -6 bonus.
 |Armor|Potion of defense||-10||
 ||White Dragon Scales|COMPON18||Components|WK3|
 ||White Dragon Scale|CHAN20|-12|Cespenar (ToB)|
-|Necklace|Heart of the moountain||-2||
+|Necklace|Heart of the mountain||-2||
 ||Amulet of the master harper||-3|(ToB)|
-|Cloak|Cloak of the Shield|CLCK20|0|Type AC Bonus for 1turn|
+|Cloak|Cloak of the Shield|CLCK20|0|Type AC Bonus|
 ||Cloak of the Sewer||-1|Polymorph|
 ||Montolio's Cloak||-1|(ToB)|
 ||Cloak of the Dark Moon||-2|(ToB)|
@@ -57,7 +58,7 @@ With the swashbuclker, it's more easy to reach -20 with his -6 bonus.
 ||Gauntlets of Extraordinary Specialization||THACO -1 APR +1/2 DAMAGE +2 (WK5)|
 ||Gauntlets of Weapon Expertise||Where ?! Too late... Too bad...|
 ||Wondrous Gloves||-1||
-||Helmets|Vhailor's Helm|WA2HELM|-1|Simulacrum|
+|Helmets|Vhailor's Helm|WA2HELM|-1|Simulacrum|
 ||Helm of Balduran||-1|SAVES -1 HP +5|
 ||Helm of Brillance|HELM16|0|Sunray Casting Time 0|
 ||Headband of the Devout|OHRHELM1|0|Chant (ToB)|
@@ -69,11 +70,11 @@ With the swashbuclker, it's more easy to reach -20 with his -6 bonus.
 ||Defender of Easthaven +3||-1|Better for Ranger/Barbarian|
 ||Dak'kon's Zerth Blade +2||-1|Katana|
 ||Yamato +4 (Scimitar)||-1|(ToB) Too late!|
-|Scroll|Blur|SCRL85|MAX|10 rounds (SAVES -6)|
-|Innate ability|Swashbuckler (-1 to -9)||-6|Passive|
+|Innate ability|Swashbuckler (-1 to -9)||-6|Passive (level 25)|
 ||Greater evasion (-6)||MAX|5 rounds (SAVES -12 SPEED +12)|
 ||Evasion (-4)||MAX|3 rounds (SAVES -8)|
 ||Kensei||-2|Passive|
+|Scroll|Blur|SCRL85|-3|10 rounds (SAVES -1)|
 
 The Swashbuclker/Fighter can reach easily with General AC and Uncapped General AC, it's pretty easy to reach between -18 to -20. It's more difficult to reach the -28 because you need specific items to buy or active ability. Indeed, with Cloak of the Shield, and in a fightning, you can easily in-grow your global situational AC by 6 for crushing, slashing and piercing AC and reach to -20 AC for projectil.
 Neverthless, the Swashbuckler can reach maximum general AC by one spell with Blur, Evasion and/or Greater Evasion. Greater Evasion is very funny to see! The Swashbuckler/Fighter is a very good build!
@@ -155,17 +156,31 @@ Viper's Edge is an evil easter egg, lose your time with this poo item. The only 
 
 As stated, the swashbuckler fighter is an extremely solid fighter and even without a ranged weapon specialization, he will take out a good number of opponents at range. It is very enjoyable to do the adventure without a strict choice on the ranged weapon. Depending on your ammo, choose the weapon you prefer. However, one ranged weapon that is particularly cool in Siege of Dragonspear is the Banshee Bow which is a longbow. Specializing in a longbow is therefore a good idea. Also, you do not need to reach level 9 weapon mastery in your sneak attack weapon (shortsword, scimitar or longsword) because you will only gain the extra half attack at level 13, except that you need its 2 half attacks to not conflict with the speed oils (80 when Imoen dies). However, in Baldur's Gate 2, shortbows seem to be better than longbows.
 
-|Position|Item|Opcode|Bonus AC|Bonus Saves|Other Bonus|In-game|
-|:-|:-|:-|:-|:-|:-|:-
-|Armour|Dragonscale Armor|BDLEAT05|SLASHING-2 PIERCING-1 MISSILE-1||Not magical POISON +100%|TRUE|
-|Ring|Ring of Purity|BDRING10|-2 vs Evil|-2 vs Evil|Luck +1 Saves -1|Cond|
-|Amulet|Archer's Eyes|BDAMUL02|||DEX +1 Critical Hit Chance with ranged weapon +5%|TRUE|
-|Belt|Cloverleaf|BDBELT01|||Luck +1|Cond|
-|Weapon|Bow of the Banshee +2|BDBOW04|||10% per hit cast Cloack of Fear on wielder|TRUE|
-|Belt|Belt of the Cunning Rogue|BDBELT03|||Open Locks +15 Find Traps +15|TRUE|
-|Cond|Spectacles of Spectacle|BDMISC01|||Detect Illusion +25|TRUE|
+|Position|Item|Opcode|Bonus AC|Other Bonus|In-game|
+|:-|:-|:-|:-|:-|:-
+|Helmet|Vhailor's Helm|WA2HELM|-1|Simulacrum 1/day|TRUE|
+||Helm of Brillance|HELM16||Sunray 1/day|TRUE|
+|Armour|Studded Leather Armor|LEAT04|SLASHING-2 PIERCING-1 MISSILE-1||Not magical|TRUE|
+|Gauntlets|Gauntlets of Extraordinary Specialization|BRAC21|APR +1/2 THACO -1 DAMAGE +2|
+|Ring|The Warder's Signet +3|RING41|-3|SAVES -3|Aesgareth|
+|Ring|Ring of Gaxx|RING39|-2|SAVES -2 POISON 100% +1HP/3sec|TRUE|
+|Amulet|Heart of the Mountain|BDAMUL26|-2||TRUE|
+|Belt|Elve's Bane|BELT04|MISSILE/PIERCING -3||TRUE|
+|Boots|The Paws of the Cheetah|BOOT01||Double movement speed|TRUE|
+|Weapon|The Army Scythe +1|XBOW06||+1 APR|TRUE|
+||Kundane +2|SW1H25||+1 APR|TRUE|
+||Ras the Dancing Blade +2|SW1H33C||EARN GOLD|TRUE|
+||Daystar +2|SW1H31||Sunray 1/day|TRUE|
+||Twinkle +3|SW1H16|-2|Enchantment +5|TRUE|
+||Ninjato of the Scarlet Brother +3|WANINJA||+1 APR 12 Poison/12sec (saves death negate) Bypass MR and MI|TRUE|
+||Firetooth +4|XBOW15||Enchantment +4|TRUE|
+||Bolt of Lightning|BOLT03||4d4 (saves breath half)|
+||Bolt of Biting|BOLT04||30 poison/15 second (saves death negate)|
+||Kuo-Toa Bolt|KUOBOLT||STUN (saves spell negate)|TRUE|
+||Wand of Lightning|WAND07||CHEESE|TRUE|
+|Compon|White Dragon Scales|COMPON18|||TRUE|
 
-Heart of the Mountain seems to be in Baldur's Gate II even If you haven't search this item.
+Heart of the Mountain is in Baldur's Gate II even If you haven't search this item in Siege of Dragonspear. Its the best Necklace for the Swashbuckler.
 
 ![](../picture/fighter-thief-item-stat-end-sod.webp)
 
@@ -173,10 +188,8 @@ Heart of the Mountain seems to be in Baldur's Gate II even If you haven't search
 
 With a solid fighter, starting Baldur's Gate II is easy. In the beginning, you need the Ring of Influence that you can find in the circus queston the promenade. When you start Chapter 2, buy Mastery Thieves potion, and start the game with Roger in the Sewer under Temple district. Reach 15 000 gold or more, and buy the Mercykiller ring, steal from Ribald ring of regeneration, steal the Army scithe and Bolt of lightning (4d4 electric damage half saves vs Breath), Sword of flame (useful against Troll). The best range weapon is so Light crossbow (Bolt of biter, there is a lot in BG2), then Shortbow (Bow of explosion) and finally Sling (Sling of Seeking add strength bonus for damage).
 
-![](../picture/fighter-thief-item-stat-end-golem-bg2.webp)
 ![](../picture/fighter-thief-item-stat-end-bg2.webp)
 ![](../picture/fighter-thief-class-stat-end-bg2.webp)
-
 
 ## Use Any Item
 
@@ -186,3 +199,5 @@ A special page will be writed to relate the best way to play with this ability.
 ## Vhailor's Helm
 
 Thief can do a simulacrum with Vhailor's Helm. Also a special page, will be created to speak about synergy with this great spell.
+
+## Algorithm
