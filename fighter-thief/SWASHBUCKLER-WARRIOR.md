@@ -192,10 +192,10 @@ With a solid fighter, starting Baldur's Gate II is easy. In the beginning, you n
 ||Twinkle +3|SW1H16|-2|Enchantment +5|TRUE|
 ||Ninjato of the Scarlet Brother +3|WANINJA||+1 APR 12 Poison/12sec (saves death negate) Bypass MR and MI|TRUE|
 ||Firetooth +4|XBOW15||Enchantment +4|TRUE|
-||Bolt of Lightning|BOLT03||4d4 (saves breath half)|
-||Bolt of Biting|BOLT04||30 poison/15 second (saves death negate)|
+|Ammo|Bolt of Lightning|BOLT03||4d4 (saves breath half)|TRUE|
+||Bolt of Biting|BOLT04||30 poison/15 second (saves death negate)|TRUE|
 ||Kuo-Toa Bolt|KUOBOLT||STUN (saves spell negate)|TRUE|
-||Wand of Lightning|WAND07||CHEESE|TRUE|
+|Misc|Wand of Lightning|WAND07||CHEESE|TRUE|
 |Compon|White Dragon Scales|COMPON18|||TRUE|
 
 ![](../picture/fighter-thief-item-stat-end-bg2.webp)
