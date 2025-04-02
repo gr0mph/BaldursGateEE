@@ -24,55 +24,13 @@ A great Flail or Morningstar is present in Durlarg Tower, but in fact not. To wi
 
 Priest spells are slow, not very disabling, less combinable than mage spells, with effects that can be canceled under saving throws, and with less damage. In addition, spell exploits are present for mages but absent for priests. This makes druid priests, clerics, rangers, paladins much less dangerous than mages. Nevertheless, a philosophy seems to be emerging in D&D 2, which is the priest casts a spell then strikes. This works well for example with Boon, Reach 5 APR, Command, smash! It is not comparable with Globe, Web, done or Backstab, done but there is a nice side!
 
-Command
-Casting time 1
-Bypass magic resistance NO
-Bypass mirror image YES
-“ This spell enables the priest to command another creature to "die" (sleep) for a single round. At the end of the round, the creature awakens and is unharmed. Creatures with 6 or more Hit Dice (or experience levels) are entitled to a Saving Throw vs. Spell to ignore the command. ”
-
-Like said, it's the best spell from level 1 to 4 for a Cleric spell. Cast in good timing, can kill a dangerous enemy.
-
-Hold person
-Casting time 5
-Bypass magic resistance NO
-Bypass mirror image ?
-“ This spell holds one or more humans, demihumans, or humanoid creatures rigidly immobile and in place for one turn. This includes: brownies, dryads, dwarves, elves, gnolls, gnomes, goblins, half-elves, halflings, half-orcs, hobgoblins, humans, kobolds, lizard men, nixies, orcs, pixies, sprites, troglodytes, and others. Thus, a 10th-level Fighter could be held, while an ogre could not. The effect is centered on the victim selected by the caster. Every enemy within 4 ft. of the target is also affected. Those who succeed on their Saving Throws are totally unaffected by the spell. Undead creatures cannot be held.
-
-Held creatures cannot move or speak, but they remain aware of events around them even though they are helpless to change them. Time passes at a normal rate for the targets and hence being held does not stop any worsening of their condition due to wounds, disease, or poison. ”
-
-With a bad casting time, this spell is nevertheless a best spell for cleric.
-
-Holy smite
-Casting time 3
-Bypass magic resistance NO
-Bypass mirror image ?
-“ This spell calls upon energy from the Positive Energy Plane in order to open a channel between it and the targets. The result is that any evil creatures within the spell's area of effect take 1d4 points of damage per level of the caster, or half damage upon a successful Saving Throw vs. Spell. If the victims fail their Saving Throw, they are also blinded for 1 round. ”
-
-This spell can be compared of a mage spell, Blind is a must have effect, and decent damage, a very good casting time. The only and best spell level 3. And indeed, other spell has been tested and doesn't work Miscast magic (saving throw negate), Summon insect (very too slow).
-
-Mental domination
-Casting time 4
-Bypass magic resistance NO
-Bypass mirror image ?
-“ When cast upon a subject, the subject must make a Saving Throw vs. Spell with a -2 penalty in order to avoid the priest entering his/her mind. The effects of this spell are similar to those of the wizard spell Domination, with a few minor differences. Most notably, this spell gives the priest no access to the subject's thoughts, memory, or sensory apparatus. The priest simply is able to command the subject to perform certain tasks or functions during the spell's duration. To control the subject, the priest must be within range and must be able to see the subject. This control will last until dispelled or for the duration of the spell. ”
-
-With a bonus saving throw, a decent casting time, this spell is very good.
-
-Poison (spell)
-Casting time 4
-Bypass magic resistance NO
-Bypass mirror image ?
-“ Through this spell, the caster can poison victims who fail their Saving Throw vs. Poison. The damage inflicted depends on the level of the caster as detailed below:
-
-    7–9th level: 2d8 + 2/round
-    10–12th level: 3d8 + 3/round
-    13–14th level: 4d8 + 4/round
-    15–16th level: 6d8 + 5/round
-    17+ level: 8d8 + 6/round
-
-Those who make their Saving Throws are unaffected. ”
-
-A decent casting time, good damage, this spell maybe cool. Nevertheless, need more test because saving throws versus can ignore the damage.
+|Image|Spell|Level|Casting time|Bypass mirror image|
+|:-|:-|:-|:-|:-
+||Command|1|1|YES|
+||Hold person|2|5||
+||Holy smite|3|3||
+||Mental domination|4|4||
+||Poison|4|4||
 
 ## Items Baldur's Gate 1
 
