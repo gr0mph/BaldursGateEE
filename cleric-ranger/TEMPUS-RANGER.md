@@ -23,3 +23,9 @@ To do an excellent Priest of Tempus character, you need use exploit in the game.
 After that reach the level 25 and attack the Watcher keep. 
 
 ![](../picture/tempus-ranger-item-stat-end-bg2.webp)
+
+## Best divine spell
+
+![](../picture/divine-spell.webp)
+
+
